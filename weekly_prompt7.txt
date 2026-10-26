@@ -1,0 +1,9 @@
+Question:
+In Chapter 14, you will note that in the code example for the Button class, 
+the author has included a triple-quoted strings for the class, and functions. 
+In fact, in most of the code provided in the book, triple-quoted strings have 
+been provided for modules, methods, functions and classes. Discuss how these 
+docstrings help programmers with their workflow. Remember your experience and 
+the internet are your friends.
+
+Answer:
