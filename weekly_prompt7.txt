@@ -7,3 +7,16 @@ docstrings help programmers with their workflow. Remember your experience and
 the internet are your friends.
 
 Answer:
+Docstrings are important for both you, helping you keep track of what 
+different classes and functions do in your own code, but also for collaboration, 
+to help outsiders who may work with your code understand the different classes 
+and functions, how they work, and what they do. In terms of docstring's usefulness 
+for your future self, they are very important for large projects. It's very easy to lose 
+track of classes and functions with a multi-file project. No matter how many notes 
+you take, and how you track everything, having docstrings hardwired into your code 
+can help IDEs work harder for you and help speed up the coding process. Once you 
+have a project that you want to publish and allow others to use, edit, or debug, 
+docstrings are vital to their understanding of your code and will help them 
+navigate multiple files without needing to study your code and waste precious 
+time tracing functions and methods to understand what action they're each performing.
+ 
